@@ -43,6 +43,13 @@ function App() {
 			frontEnd: true,
 			backend: true,
 		},
+    {
+			name: "React",
+			blurb: "I am currently studying React. This page was built using it!",
+			link: "https://github.com/missfionajean/react-portfolio-lab",
+			frontEnd: true,
+			backend: false,
+		}
 	];
 
 	return (
